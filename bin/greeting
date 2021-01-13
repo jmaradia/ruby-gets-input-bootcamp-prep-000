@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
- def greeting (name)
+
+
 require_relative '../lib/hello_ruby_programmer.rb'
 
 puts "Hi! Welcome to the wonderful world of Ruby programming."
